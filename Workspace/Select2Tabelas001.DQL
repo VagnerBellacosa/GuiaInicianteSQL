@@ -1,0 +1,2 @@
+SELECT fornecedores.nome, materiais.nome
+FROM fornecedores, materiais;
